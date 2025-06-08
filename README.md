@@ -3,7 +3,6 @@
 <h2>Description</h2>
 
 The aim of this project is to explore how different problems in the real-world can be represented by the same combinatorial problem. In particular, we will look at three problems and how they are related to each other: Making change, tiling, and Fibonacci’s sequence.
-<br />
 
 <h2>Repository Content</h2>
 
